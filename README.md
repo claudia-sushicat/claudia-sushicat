@@ -1,12 +1,11 @@
 ### ✨ Olá mundo!✨ 
 Hello World ~
 
-- 🔭 Working with Cybersecurity in purple team! (also doing red&blue team stuff ;u; ) / Trabalhando com Segurança da Informação em purple team :D ( também realizando processos de red e blue team )
+- 🔭 Working with Cybersecurity 
 - 🌱~ Learning malware analysis and reverse engineering ~ Aprendendo mais sobre analise de malware, engenharia reversa  ~ 
 - ⚡DevSec > dev. Python, C, bash and powershell 4the win ~
 -  I'm very interested in Software Engineering field ~ / Tenho bastante interesse na área de engenharia de software 
 - 💬  Writing about information security at Medium ;) / Escrevo alguma coisa lá no medium @asushi https://medium.com/@asushi
-- Currently working at Bank Of Communications (交通银行) BBM, Brazil. 
  - Some f4cts about me:  You can contact me in english, portuguese, spanish, japanese or even in chinese * wich I know a little * it doesn't matter 
  - Really love cats and sushi, most of my free time I spend with my cats, chillin' or playing guitar and videogames ~
  
