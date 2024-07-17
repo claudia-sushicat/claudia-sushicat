@@ -1,10 +1,9 @@
 ### ✨ Olá mundo!✨ 
 Hello World ~
 
-- 🔭 Working with Cybersecurity at Accenture Brazil (CSIRT)
-- 🌱~ Researcher in Software Engineering field at Federal Rural University of Rio de Janeiro, BR.
-- ⚡ - Cyber Security Analyst by day, and Security Tester/Bug Hunter at weekends because I don't have any more time to handle it all lol
-- I have some experience at blue team, red team and also purple team.
+- 🔭 Working in Threat Hunting Team at Accenture Brazil 
+- 🌱~ Researcher in Software Engineering/AI field at Federal Rural University of Rio de Janeiro, BR.
+- ⚡ - In love with security automations and creating tools! ! ( :) ) 
 - 💬  Writing about information security at Medium ;)  @asushi https://medium.com/@asushi
  - Some f4cts about me:  You can contact me in english, portuguese, spanish, japanese or even in chinese * wich I know a little * it doesn't matter 
  - Really love cats and sushi, most of my free time I spend with my cats, chillin' or playing guitar/piano/bass and videogames ~
